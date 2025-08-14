@@ -2,4 +2,6 @@
 venv
 
 # PDF used in this project
-Docs_files
+Docs_files 
+
+# Ignore Python bytecode files
