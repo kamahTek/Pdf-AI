@@ -2,4 +2,7 @@
 venv
 
 # PDF used in this project
-Docs_files 
+Data
+
+# vector database for PDF files
+chroma_pdf_db
