@@ -12,3 +12,4 @@ def load_pdf():
     return docs
 
 # print(len(load_pdf()))
+# print(load_pdf())
